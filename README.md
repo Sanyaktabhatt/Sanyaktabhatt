@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanyakta</h1>
 <h3 align="center">From HTML to NLP, I speak many languages.</h3>
 
+![Coding Big Brain GIF by SMOL](https://github.com/user-attachments/assets/5252c69b-f474-4f81-84a1-bd2b9701a934)
+
 - 🔭 Curious About **How many tabs a human can actually handle💀**
 
 - 💬 Ask me about **Infinite loops in real life🔁**
