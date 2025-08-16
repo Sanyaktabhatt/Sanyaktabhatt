@@ -6,14 +6,13 @@
 </p>
 
 ---
+💡 **About Me**
 
-- 🔭 Curious About **How many tabs a human can actually handle💀**
-
-- 💬 Ask me about **Infinite loops in real life🔁**
-
-- 📫 How to reach me **sanyakta27@gmail.com📩**
-
-- ⚡ Fun fact **I treat debugging as a personality trait💁🏼‍♀️**
+⚡ Crafting responsive and dynamic frontends with **React & Next.js**  
+🌐 Developing robust backends using **Node.js & Express**  
+🧠 Passionate about **AI & ML**, experimenting with smart projects and data-driven ideas  
+🚀 Skilled in **JavaScript, MERN Stack**, and modern web technologies  
+📫 Let’s connect: **sanyakta27@gmail.com**
 
 ---
 
