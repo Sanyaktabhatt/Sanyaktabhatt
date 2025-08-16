@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanyakta</h1>
-<h3 align="center">From HTML to NLP, I speak many languages.</h3>
+<h3 align="center">From HTML to NLP, I speak many languages.| Full Stack Developer | AI-ML enthusiast | 3rd year CSE Student </h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5252c69b-f474-4f81-84a1-bd2b9701a934" alt="Coding Big Brain GIF by SMOL">
