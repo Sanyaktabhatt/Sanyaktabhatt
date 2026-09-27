@@ -57,7 +57,7 @@ const sanyakta = {
   <img src="https://img.shields.io/badge/Multimodal%20Generation-1a1b27?style=for-the-badge" />
 </p>
 
-<p align="center"><b>📊 Data & ML</b> &nbsp;•&nbsp; <b>⛓️ Web3 & Realtime</b></p>
+<p align="center"><b>📊 Data & ML</b> &nbsp;•&nbsp; </p>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
   <img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -65,10 +65,6 @@ const sanyakta = {
   <img src="https://img.shields.io/badge/Machine%20Learning-1a1b27?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-1a1b27?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WebSockets-1a1b27?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-1a1b27?style=for-the-badge&logo=ethereum&logoColor=627EEA" />
-  <img src="https://img.shields.io/badge/Web3.js-1a1b27?style=for-the-badge&logo=web3dotjs&logoColor=F16822" />
-  <img src="https://img.shields.io/badge/Smart%20Contracts-1a1b27?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardhat-1a1b27?style=for-the-badge" />
 </p>
 
 ---
