@@ -32,16 +32,58 @@ const sanyakta = {
 - 🌐 Developing **robust backends** using Node.js & Express
 - 🧠 Passionate about **AI & ML**, experimenting with smart projects and data-driven ideas
 - 🚀 Skilled in **JavaScript, MERN Stack**, and modern web technologies
+- 💼 Check out my portfolio: **[sanyakta.me](https://sanyakta.me)**
 - 📩 Let's connect: **[sanyakta27@gmail.com](mailto:sanyakta27@gmail.com)**
 
 ---
 
 ## ⚙️ Languages and Tools
 
+<h3 align="center">💻 Languages</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,mysql,r&perline=10" /></a></p>
+
+<h3 align="center">🎨 Frontend</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite&perline=10" /></a></p>
+
+<h3 align="center">⚙️ Backend</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postman&perline=10" /></a></p>
+<p align="center"><img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /></p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,dynamodb&perline=10" /></a></p>
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions&perline=10" /></a></p>
+
+<h3 align="center">🤖 Generative AI</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,tensorflow,sklearn,git,github,vscode,postman&perline=8" />
-  </a>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedding%20Search-0A7E8C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal%20Generation-C2185B?style=for-the-badge" />
+</p>
+
+<h3 align="center">📊 Data & ML</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow&perline=10" /></a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge" />
+</p>
+
+<h3 align="center">⛓️ Blockchain</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity&perline=10" /></a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge" />
 </p>
 
 ---
@@ -58,7 +100,7 @@ const sanyakta = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Sanyaktabhatt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://raw.githubusercontent.com/Sanyaktabhatt/Sanyaktabhatt/output/trophy.svg" />
 </p>
 
 ---
@@ -81,29 +123,13 @@ const sanyakta = {
   </picture>
 </p>
 
----
-
-## 😂 Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:sanyakta27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Sanyaktabhatt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Replace YOUR_LINKEDIN with your LinkedIn profile ID, or delete this line -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sanyakta-bhatt-67ab16304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sanyakta.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<p align="center"><i>⭐ Thanks for stopping by! Drop a star on something you like — it makes my day! ⭐</i></p>
