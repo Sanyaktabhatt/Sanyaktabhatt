@@ -71,7 +71,7 @@ const sanyakta = {
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
+## My Contributions
 
 <p align="center">
   <picture>
@@ -80,15 +80,6 @@ const sanyakta = {
   </picture>
 </p>
 
----
-
-## 😂 Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
