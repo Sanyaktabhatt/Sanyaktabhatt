@@ -58,7 +58,7 @@ const sanyakta = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanyaktabhatt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Sanyaktabhatt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
@@ -66,20 +66,30 @@ const sanyakta = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyaktabhatt&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://activity-graph.vercel.app/graph?username=Sanyaktabhatt&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## My Contributions
+## 👾 My Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanyaktabhatt/Sanyaktabhatt/output/github-snake-dark.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Sanyaktabhatt/Sanyaktabhatt/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanyaktabhatt/Sanyaktabhatt/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanyaktabhatt/Sanyaktabhatt/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/Sanyaktabhatt/Sanyaktabhatt/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
+---
+
+## 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</p>
+
+---
 
 ## 📫 Connect with Me
 
@@ -92,3 +102,8 @@ const sanyakta = {
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center"><i>⭐ Thanks for stopping by! Drop a star on something you like — it makes my day! ⭐</i></p>
