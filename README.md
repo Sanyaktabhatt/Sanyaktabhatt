@@ -92,8 +92,3 @@ const sanyakta = {
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<p align="center"><i>⭐ Thanks for stopping by! Drop a star on something you like — it makes my day! ⭐</i></p>
