@@ -106,4 +106,3 @@ const sanyakta = {
   <a href="https://linkedin.com/in/sanyakta-bhatt-67ab16304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://sanyakta.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
----
