@@ -93,9 +93,9 @@ class Hrishitaa:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrishitaa-n/hrishitaa-n/github-breakout/images/breakout-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrishitaa-n/hrishitaa-n/github-breakout/images/breakout-light.svg" />
-    <img alt="Breakout game on contributions" src="https://raw.githubusercontent.com/hrishitaa-n/hrishitaa-n/github-breakout/images/breakout-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanyaktabhatt/Sanyaktabhatt/github-breakout/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanyaktabhatt/Sanyaktabhatt/github-breakout/images/breakout-light.svg" />
+    <img alt="Breakout game on contributions" src="https://raw.githubusercontent.com/Sanyaktabhatt/Sanyaktabhatt/github-breakout/images/breakout-light.svg" />
   </picture>
 </p>
 
