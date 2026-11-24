@@ -15,25 +15,30 @@
 
 ## 💡 About Me
 
-```python
-hrishitaa = {
-    "role": "Software Engineer | Backend Developer 🐍",
-    "education": "B.Tech CSE (AI in Analytics) @ MIT ADT University 🎓",
-    "backend": ["Python", "FastAPI", "SQLAlchemy", "Pydantic"],
-    "databases": ["PostgreSQL", "MySQL", "FAISS"],
-    "ai_stack": ["RAG", "LLMs", "Multi-Agent Systems", "Semantic Search"],
-    "experience": "AI Integration Intern @ Acuta Digital Inc. 💼",
-    "currently_exploring": "LLM evaluation & reliable AI agents 🧠",
-    "fun_fact": "I trust Recall@5 more than my own memory 🔍",
-}
+```bash
+hrishitaa@github:~$ whoami
+> Software Engineer | Backend Developer | Python Specialist 🐍
+
+hrishitaa@github:~$ cat education.txt
+> B.Tech CSE (AI in Analytics) @ MIT ADT University 🎓
+
+hrishitaa@github:~$ ls ~/skills
+> python/  fastapi/  postgresql/  rag/  llms/  multi-agent-systems/
+
+hrishitaa@github:~$ cat experience.log
+> AI Integration Intern @ Acuta Digital Inc. — built an LLM chatbot on a Drupal site 💼
+
+hrishitaa@github:~$ echo $FUN_FACT
+> I trust Recall@5 more than my own memory 🔍
 ```
 
-- ⚡ Building **fast, async backends** with Python & FastAPI
-- 🔍 Built a **Semantic Search & RAG system** with **92% Recall@5**, beating the BM25 baseline by 28 points
-- 🤖 Built **Agent Monitor**, an LLM-assisted health monitor for AI agents with a 4-agent pipeline
-- 🧩 Interested in **LLM evaluation, structured outputs & multi-agent systems**
-- 💼 Check out my portfolio: **[hrishitaa-rahul-nalawade.vercel.app](https://hrishitaa-rahul-nalawade.vercel.app/)**
-- 📩 Let's connect: **[hrishitaan@gmail.com](mailto:hrishitaan@gmail.com)**
+- 🔭 Currently working on **smarter retrieval & reliable AI agents**
+- 🏆 Proudest build: a **RAG system with 92% Recall@5** (BM25 got 64%)
+- 🩺 Also built **Agent Monitor**, which watches AI agents and diagnoses their errors with an LLM
+- 🌱 Learning more about **LLM evaluation & system design**
+- 💬 Ask me about **FastAPI, FAISS, RAG or prompt engineering**
+- 💼 Portfolio: **[hrishitaa-rahul-nalawade.vercel.app](https://hrishitaa-rahul-nalawade.vercel.app/)**
+- 📩 Email: **[hrishitaan@gmail.com](mailto:hrishitaan@gmail.com)**
 
 ---
 
